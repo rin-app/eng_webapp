@@ -1,7 +1,7 @@
 import streamlit as st
 import nltk
 
-#nltk.download('all')
+nltk.download('all')
 import eng
 
 

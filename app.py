@@ -13,6 +13,7 @@ st.markdown("---") #区切り線
 en_input = st.text_area('英文を入力')
 
 submit_btn = st.button('変換')
+cancel_btn = st.button('リセット')
 
 if submit_btn:
   string_a = en_input

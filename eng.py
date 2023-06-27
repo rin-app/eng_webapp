@@ -37,8 +37,8 @@ eng = {'CC': '調整接続詞', #品詞分けの辞書
        }
 
 en_color = {'調整接続詞': 'purple', #品詞の色
-            '基数': 'lavender',
-            '限定詞': 'darkcyan',
+            '基数': 'cadetblue',
+            '限定詞': 'teal',
             '存在を表すthere': 'brown',
             '外国語': 'linen',
             '前置詞または従属接続詞': 'red',
@@ -52,9 +52,9 @@ en_color = {'調整接続詞': 'purple', #品詞の色
             '固有名詞': 'darkblue',
             '固有名詞 (複数形)': 'navy',
             '前限定辞': 'midnightblue',
-            '所有格の終わり': 'lawngreen',
+            '所有格の終わり': 'darkolivegreen',
             '人称代名詞': 'chartreuse',
-            '所有代名詞': 'greenyellow',
+            '所有代名詞': 'yellowgreen',
             '副詞': 'green',
             '副詞 (比較級)': 'forestgreen',
             '副詞 (最上級)': 'seagreen',
@@ -62,16 +62,16 @@ en_color = {'調整接続詞': 'purple', #品詞の色
             '記号': 'gray',
             '前置詞 to': 'tomato',
             '感嘆詞': 'lemonchiffon',
-            '動詞 (原形)': 'pink',
-            '動詞 (過去形)': 'lightpink',
-            '動詞 (動名詞または現在分詞)': 'thistle',
+            '動詞 (原形)': 'indigo',
+            '動詞 (過去形)': 'blueviolet',
+            '動詞 (動名詞または現在分詞)': 'mediumvioletred',
             '動詞 (過去分詞)': 'magenta',
             '動詞 (三人称単数以外の現在形)': 'fuchsia',
             '動詞 (三人称単数の現在形)': 'violet',
-            'Wh 限定詞': 'navajowhite',
-            'Wh 代名詞': 'peachpuff',
-            '所有 Wh 代名詞': 'mistyrose',
-            'Wh 副詞': 'lavenderblush',
+            'Wh 限定詞': 'olive',
+            'Wh 代名詞': 'darkred',
+            '所有 Wh 代名詞': 'maroon',
+            'Wh 副詞': 'indianred',
             }
 
 def divide(name): #品仕分け
